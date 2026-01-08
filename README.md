@@ -5,7 +5,7 @@
 
 - 🔭 currently working on **[Reventox](https://reventox.net)**  
 - 🧠 building with **Java, TypeScript, Kotlin, Rust, GoLang and much more :)**  
-- ⚙️ interested in scalable systems, tooling & architecture  
+- ⚙️ Web Design Fetchist
 
 ---
 
