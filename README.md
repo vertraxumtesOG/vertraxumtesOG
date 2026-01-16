@@ -4,8 +4,8 @@
 > i just do i dont think lol
 
 - 🔭 currently working on **[Reventox](https://reventox.net)**  
-- 🧠 building with **Java, TypeScript, Kotlin, Rust, GoLang and much more :)**  
-- ⚙️ Web Design Fetchist
+- 🧠 building with **Java, TypeScript, C#, Rust, Ruby, GoLang and much more :)**  
+- ⚙️ Web Design Fetchist (Angular ❤️)
 
 ---
 
