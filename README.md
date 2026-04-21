@@ -5,7 +5,7 @@
 
 - 🔭 currently working on **[Reventox](https://reventox.net)**  
 - 🧠 building with **Java, TypeScript, C#, Rust, Ruby, GoLang and much more :)**  
-- ⚙️ Web Design Fetchist (Angular ❤️)
+- ⚙️ Web Design fetishist (Angular ❤️)
 
 ---
 
